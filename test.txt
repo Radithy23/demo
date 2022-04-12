@@ -11,3 +11,5 @@ sumatra
 mallorca (europe/spain)
 
 menorca (europe/spain)
+
+ibiza (europe/spain)
