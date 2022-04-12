@@ -13,3 +13,5 @@ mallorca (europe/spain)
 menorca (europe/spain)
 
 ibiza (europe/spain)
+
+corsica (europo/france)
