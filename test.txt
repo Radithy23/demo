@@ -9,3 +9,5 @@ komodo
 sumatra
 
 mallorca (europe/spain)
+
+menorca (europe/spain)
